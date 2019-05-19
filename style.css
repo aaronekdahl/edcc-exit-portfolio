@@ -32,8 +32,10 @@ section {
 }
 
 h1 {
+    font-size: 2rem;
     color: #66FCF1;
     padding-top: 1rem;
+    margin-bottom: .5rem;
 }
 
 h2 {
@@ -61,6 +63,10 @@ section p {
 
 p {
   padding-bottom: .5rem;
+}
+
+q {
+  color: #C5C6C7;
 }
 
 nav {
@@ -103,11 +109,11 @@ li a:hover {
     }
 
 ul {
-        list-style-type : none;
+    list-style-type: none;
 }
 
 a {
-    color : white;
+    color: white;
 }
 
 .profile-photo {
@@ -134,10 +140,11 @@ footer {
   bottom: 20px;
   width: 100%;
   height: 2.5rem;
+
 }
 
 footer address, footer p {
-  padding-left: 2rem;
+  padding-left: 4rem;
 }
 
 .p-list {
@@ -146,7 +153,7 @@ footer address, footer p {
 }
 
 table {
-  margin-left: 5rem;
+  margin-left: 4.25rem;
   margin-top: 4.5rem;
   width: 45rem;
 }
@@ -184,4 +191,24 @@ color: #C5C6C7
 form {
   color: white;
   margin-top: 35px;
+}
+
+.courses ul p {
+  margin-bottom: .5rem;
+}
+
+.courses li {
+  color: #66FCF1;
+}
+
+.courses li a {
+  color: #45A29E;
+}
+
+.courses li a:hover {
+  color: #66FCF1;
+}
+
+section #course-list {
+  margin-top: -2rem;
 }

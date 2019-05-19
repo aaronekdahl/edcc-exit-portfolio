@@ -1,0 +1,39 @@
+<li>CIS 234 - Systems Design and Development</li>
+<p>Provides hands-on experience in systems design and implementation using a prototype approach. The case study is designed and tested using application development software. User manuals are written.
+</p>
+
+<li>CIS 241 - Web Development I</li>
+<p>Website development using HTML5, approached from a source code perspective. Covers tags, forms, linked objects, CSS3, frames, tables, and introduction to the use of scripting. Students build multi-page websites using Git and GitHub.
+
+<li>CIS 242 - Web Development II: JavaScript and jQuery</li>
+<p>Students will explore the topics of embedding, inline and external scripts, functions, form validation, loops, conditional statements, strings, numbers, DHTML, and an introduction to JavaScript Frameworks. Introduction to creating Node.js websites. Students build multi-page websites using these technologies.
+</p>
+
+<li>CIS 243 - Web Development III: Introduction to PHP</li>
+<p>Topics include server-side scripting for web pages using PHP. Students will learn fundamentals of PHP scripting including functions, logical structure, and database connectivity used in creating websites. Other topics include Ruby on Rails and Django Python Web frameworks.
+</p>
+
+<li>CIS 244 - Web Development IV: Intro to Joomla! and SEO</li>
+<p>Students will learn to work with open-source content management systems (CMSs) and search engine optimization (SEO). Topics include Joomla!, installation of Joomla!, creating and updating content, and SEO concepts and techniques. Students will apply these topics while building multi-page websites.
+</p>
+
+<li>CIS 245 - Web Development V: Introduction to CSS</li>
+<p>Students will learn the details required to combine CSS (Cascading Style Sheets) with HTML, XHTML, or XML to create rich, powerful websites. Topics include: selectors, cascade and inheritance, text and font manipulation, layout, and positioning; SASS (Syntactically Awesome Style Sheets) and LESS (Leaner CSS) style sheet languages.
+</p>
+
+<li>CIS 246 - Web Dev VI: JavaScript Frameworks</li>
+<p>Students will investigate and use the advanced techniques available in JavaScript frameworks (libraries) such as JQuery, AJAX, MooTools, AngularJS, and Prototype.
+</p>
+
+
+<li>CIS 250 - Database Theory and Design</li>
+<p>Designed to recognize data as a business resource. Database models are discussed from both a developer’s and a user’s viewpoint. Topics include: conceptual and logical models, and data normalization through case studies.
+</p>
+
+<li>CIS 251 - Structured Query Language (SQL)</li>
+<p>Covers topics in Structure Query Language (SQL) including statements such as select, update, insert, delete, and create. Emphasis on the ability to extract, update, and maintain databases using SQL.
+</p>
+
+<li>CIS 253 - Application and Cloud Development Tools</li>
+<p>An introduction to application development using MS-Access and WordPress, Drupal, Odoo, SugarCRM, Magento Web frameworks. Includes development of tables, forms, queries, reports, macros, and menus needed to support the application. Includes application development in the Cloud platforms, such as Microsoft Azure or Amazon Web Services (AWS).
+</p>
