@@ -1,0 +1,125 @@
+* body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    padding-left: 45px;
+    background-color : #262626;
+
+}
+
+h1 {
+    color : white;
+    padding-bottom: 8px;
+}
+
+h2 {
+    color : white;
+}
+
+h3{
+    color : white;
+}
+
+nav {
+    background-color : #262626;
+
+}
+
+#menu {
+    list-style-type : none;
+    margin : 3px;
+    overflow : hidden;
+    background-color : #262626;
+    padding-top: 5px;
+    padding-right: 85px;
+
+}
+
+#menu li {
+    float : right;
+
+}
+
+#menu li a {
+    display : inline-block;
+    float: left;
+    color : white;
+    text-align : center;
+    padding : 22px 35px;
+    border-radius : 3px;
+    text-decoration : none;
+}
+
+li a:hover {
+    background-color : #4d4d4d;
+    }
+
+ul {
+        list-style-type : none;
+}
+
+p {
+    color : white;
+    width: 50%;
+    align-content: flex-start;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+a {
+    color : white;
+}
+
+.profile-photo {
+  float: right;
+  padding-right: 190px;
+  padding-top: 65px;
+  border-radius: 5px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:100+Sans:300,400);
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	height: 100%;
+}
+
+footer {
+  color: white;
+  font-size: 18px;
+  position: fixed;
+  left: 45px;
+  bottom: 15px;
+  width: 100%;
+}
+
+.p-list {
+  align-content: flex-end;
+  color: white;
+}
+
+table, td, th {
+border:1px solid gray;
+color: white;
+}
+
+td, th {
+padding:15px;
+color: white;
+}
+
+td.center {
+text-align: left;
+color: white;
+}
+
+table.center {
+  margin-top: 100px;
+}
+
+form {
+  color: white;
+  margin-top: 35px;
+}
