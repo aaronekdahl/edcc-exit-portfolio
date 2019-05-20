@@ -7,15 +7,38 @@ The purpose of this repository is to store and deliver the contents of the Edmon
 
 ### Site Documentation
 
-* [Exit Portfolio Site Structure](documentation/site-structure.pdf)
+* [Site Structure](documentation/site-structure.pdf)
 
-* [Exit Portfolio Site Wireframe](documentation/site-wireframe.pdf)
+* [Site Wireframe](documentation/site-wireframe.pdf)
 
-* [Exit Portfolio Site Standards](documentation/site-standards.pdf)
+* [Site Standards](documentation/site-standards.pdf)
 
-* [Exit Portfolio Site Navigation](documentation/site-navigation.pdf)
+* [Site Navigation](documentation/site-navigation.pdf)
 
 ### Site Files
+
+#### Resume
+* [Personal Resume](documentation/aaronekdahl-resume.pdf)
+
+#### Syllabi
+* [ART 225 Syllabus](documentation/syllabus/art225-syllabus.pdf)
+* [ART 226 Syllabus](documentation/syllabus/art265-syllabus.pdf)
+* [CIS 234 Syllabus](documentation/syllabus/cis234-syllabus.pdf)
+* [CIS 241 Syllabus](documentation/syllabus/cis241-syllabus.pdf)
+* [CIS 242 Syllabus](documentation/syllabus/cis242-syllabus.pdf)
+* [CIS 244 Syllabus](documentation/syllabus/cis244-syllabus.pdf)
+* [CIS 245 Syllabus](documentation/syllabus/cis245-syllabus.pdf)
+* [CIS 250 Syllabus](documentation/syllabus/cis250-syllabus.pdf)
+* [CIS 251 Syllabus](documentation/syllabus/cis251-syllabus.pdf)
+* [CIS 253 Syllabus](documentation/syllabus/cis253-syllabus.pdf)
+
+#### Example Work
+* [ART 225 Example Work](documentation/example-work/art225-example.pdf)
+* [ART 226 Example Work](documentation/example-work/art226-example.pdf)
+* [CIS 234 Example Work](documentation/example-work/cis234-example.pdf)
+* [CIS 250 Example Work](documentation/example-work/cis250-example.pdf)
+* [CIS 251 Example Work](documentation/example-work/cis251-example.pdf)
+* [CIS 253 Example Work](documentation/example-work/cis253-example.pdf)
 
 
 
