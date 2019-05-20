@@ -19,16 +19,16 @@ The purpose of this repository is to store and deliver the contents of the Edmon
 * [Personal Resume](documentation/aaronekdahl-resume.pdf)
 
 #### Syllabi
-* [ART 225: Syllabus](documentation/syllabus/art225-syllabus.pdf)
-* [ART 226: Syllabus](documentation/syllabus/art226-syllabus.pdf)
+* [ART 225 - Introduction to Graphic Design: Syllabus](documentation/syllabus/art225-syllabus.pdf)
+* [ART 226 - Intermediate Graphic Design: Syllabus](documentation/syllabus/art226-syllabus.pdf)
 * [CIS 234 - Systems Design and Development: Syllabus](documentation/syllabus/cis234-syllabus.pdf)
-* [CIS 241: Syllabus](documentation/syllabus/cis241-syllabus.pdf)
-* [CIS 242: Syllabus](documentation/syllabus/cis242-syllabus.pdf)
-* [CIS 244: Syllabus - Missing](documentation/syllabus/cis244-syllabus.pdf)
-* [CIS 245: Syllabus](documentation/syllabus/cis245-syllabus.pdf)
-* [CIS 250: Syllabus](documentation/syllabus/cis250-syllabus.pdf)
-* [CIS 251: Syllabus](documentation/syllabus/cis251-syllabus.pdf)
-* [CIS 253: Syllabus](documentation/syllabus/cis253-syllabus.pdf)
+* [CIS 241 - Web Development I: Syllabus](documentation/syllabus/cis241-syllabus.pdf)
+* [CIS 242 - Web Development II: JavaScript and jQuery: Syllabus](documentation/syllabus/cis242-syllabus.pdf)
+* [CIS 244 - Web Development IV: Intro to Joomla! and SEO: Syllabus - Missing](documentation/syllabus/cis244-syllabus.pdf)
+* [CIS 245 - Web Development V: Introduction to CSS: Syllabus](documentation/syllabus/cis245-syllabus.pdf)
+* [CIS 250 - Database Theory and Design: Syllabus](documentation/syllabus/cis250-syllabus.pdf)
+* [CIS 251 - Structured Query Language (SQL): Syllabus](documentation/syllabus/cis251-syllabus.pdf)
+* [CIS 253 - Application and Cloud Development Tools: Syllabus](documentation/syllabus/cis253-syllabus.pdf)
 
 #### Example Work
 * [ART 225: Example Work](documentation/example-work/art225-example.pdf)
