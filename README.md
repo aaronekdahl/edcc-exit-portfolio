@@ -1,7 +1,3 @@
-
-![Portfolio Example](https://drive.google.com/file/d/1QdRKtGAUWBbmdQX9uQhS6q13ZrN5Zs4l/view?usp=sharing)
-Format: ![portfolio screencapture](https://drive.google.com/file/d/1QdRKtGAUWBbmdQX9uQhS6q13ZrN5Zs4l/view?usp=sharing)
-
 # EDCC Exit Portfolio - Aaron Ekdahl
 
 ## Purpose
