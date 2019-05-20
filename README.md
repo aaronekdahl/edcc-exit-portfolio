@@ -26,7 +26,7 @@ The purpose of this repository is to store and deliver the contents of the Edmon
 * [CIS 234 Syllabus](documentation/syllabus/cis234-syllabus.pdf)
 * [CIS 241 Syllabus](documentation/syllabus/cis241-syllabus.pdf)
 * [CIS 242 Syllabus](documentation/syllabus/cis242-syllabus.pdf)
-* [CIS 244 Syllabus](documentation/syllabus/cis244-syllabus.pdf)
+* [CIS 244 Syllabus - Missing](documentation/syllabus/cis244-syllabus.pdf)
 * [CIS 245 Syllabus](documentation/syllabus/cis245-syllabus.pdf)
 * [CIS 250 Syllabus](documentation/syllabus/cis250-syllabus.pdf)
 * [CIS 251 Syllabus](documentation/syllabus/cis251-syllabus.pdf)
