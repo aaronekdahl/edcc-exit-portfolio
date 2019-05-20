@@ -5,4 +5,4 @@ The purpose of this repository is to store and deliver the contents of the Edmon
 
 ## Site Documentation
 
-[I'm a relative reference to a repository file](../blob/documentation/site-wireframe.pdf)
+[I'm a relative reference to a repository file](../documentation/site-wireframe.pdf)
