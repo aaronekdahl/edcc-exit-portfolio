@@ -40,11 +40,12 @@ h1 {
 }
 
 h2 {
-    color: #C5C6C7
+    color: #66FCF1;
 }
 
 h3{
-    color: #C5C6C7
+  color: #66FCF1;
+  padding-bottom: .5rem;
 }
 
 section p {
@@ -64,6 +65,7 @@ section p {
 
 p {
   padding-bottom: .5rem;
+  color: #C5C6C7;
 }
 
 q {
@@ -194,12 +196,17 @@ form {
   margin-top: 35px;
 }
 
+.courses ul li{
+  text-decoration: none;
+}
+
 .courses ul p {
   margin-bottom: .5rem;
 }
 
 .courses li {
   color: #66FCF1;
+  padding-bottom: .5rem;
 }
 
 .courses li a {
@@ -215,5 +222,10 @@ form {
 }
 
 section #course-list {
-  margin-top: -2rem;
+  margin-top: -3.5rem;
+  margin-bottom: 1rem;
+}
+
+strong {
+  color: #66FCF1;
 }
