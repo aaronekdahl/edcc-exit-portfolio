@@ -5,10 +5,10 @@ The purpose of this repository is to store and deliver the contents of the Edmon
 
 ## Site Documentation
 
-[Site Structure](documentation/site-structure.pdf)
+*[Exit Portfolio Site Structure](documentation/site-structure.pdf)
 
-[Site Wireframe](documentation/site-wireframe.pdf)
+*[Exit Portfolio Site Wireframe](documentation/site-wireframe.pdf)
 
-[Site Standards](documentation/site-standards.pdf)
+*[Exit Portfolio Site Standards](documentation/site-standards.pdf)
 
-[Site Navigation](documentation/site-navigation.pdf)
+*[Exit Portfolio Site Navigation](documentation/site-navigation.pdf)
