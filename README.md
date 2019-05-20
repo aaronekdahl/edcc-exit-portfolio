@@ -11,6 +11,7 @@ The purpose of this repository is to store and deliver the contents of the Edmon
 * [Site Wireframe](documentation/site-wireframe.pdf)
 * [Site Standards](documentation/site-standards.pdf)
 * [Site Navigation](documentation/site-navigation.pdf)
+* [Portfolio Instructions](documentation/Electronic_Portfolio_WEB-DEV_2019-1.docx)
 
 ### Site Files
 
