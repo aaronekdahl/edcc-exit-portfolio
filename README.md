@@ -22,7 +22,7 @@ The purpose of this repository is to store and deliver the contents of the Edmon
 
 #### Syllabi
 * [ART 225 Syllabus](documentation/syllabus/art225-syllabus.pdf)
-* [ART 226 Syllabus](documentation/syllabus/art265-syllabus.pdf)
+* [ART 226 Syllabus](documentation/syllabus/art226-syllabus.pdf)
 * [CIS 234 Syllabus](documentation/syllabus/cis234-syllabus.pdf)
 * [CIS 241 Syllabus](documentation/syllabus/cis241-syllabus.pdf)
 * [CIS 242 Syllabus](documentation/syllabus/cis242-syllabus.pdf)
