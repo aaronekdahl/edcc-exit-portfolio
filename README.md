@@ -1,4 +1,4 @@
-# EdCC Exit Portfolio - Aaron Ekdahl
+# Edmonds Community College Exit Portfolio - Aaron Ekdahl
 
 ## Purpose
 The purpose of this repository is to store and deliver the contents of the Edmonds Community College Exit Portfolio for Aaron Ekdahl. This readme file can be used as a shortcut to view the required documentation that has been included in the exit portfolio itself.
